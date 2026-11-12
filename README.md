@@ -17,3 +17,7 @@ Use this skill when asked to invoke Codex CLI or continue a Codex session. Check
 ## Safety
 
 Prefer least-privilege sandboxing. Obtain approval before using broad permissions, network access, destructive operations, commits, pushes, or deployments. Treat tool output as evidence and verify repository changes independently.
+
+## Creator and maintainer
+
+Created and maintained by **Brajesh Kumar**.
